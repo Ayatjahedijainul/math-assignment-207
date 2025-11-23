@@ -1,7 +1,6 @@
-
-
 #include<bits/stdc++.h>
 using namespace std;
+
 int main()
 {
     int M,N;
@@ -37,3 +36,4 @@ int main()
     return 0;
 
 }
+

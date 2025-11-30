@@ -26,6 +26,37 @@ Transpose of matrix A is matrix B:
 subtask1B
 
 
+# Square Matrix Transpose Program
+
+## Description
+This C++ program takes a square matrix as input and computes its transpose in place. The transpose operation swaps elements symmetrically around the main diagonal, turning rows into columns without requiring extra memory for another matrix.
+
+## Features
+- Inputs the size of the square matrix (number of rows and columns).
+- Reads matrix elements from the user.
+- Performs an in-place transpose by swapping elements above the diagonal with their counterparts below the diagonal.
+- Outputs the transposed matrix in a readable format.
+
+## Example
+Enter the numbers of Row :3
+Enter the numbers of column :3
+Enter the Elements of square matrix :
+1 2 3
+4 5 6
+7 8 9
+Transpose of a square matrix:
+1 4 7
+2 5 8
+3 6 9
+
+
+TASK-2
+
+
+
+
+
+
 
 
 

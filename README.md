@@ -8,7 +8,7 @@
 ## Description
 This C++ program takes as input a rectangular matrix of dimensions M x N and computes its transpose. The transpose of a matrix is formed by swapping rows and columns, resulting in an N x M matrix. The program reads matrix elements from the user, performs the transpose operation, and then displays the transposed matrix.
 
-## What This Program Does
+## Features
 - Takes input for the number of rows (M) and columns (N).
 - Reads the elements of the original M x N matrix (Matrix A).
 - Creates the transpose matrix (Matrix B) of size N x M by swapping rows and columns.
